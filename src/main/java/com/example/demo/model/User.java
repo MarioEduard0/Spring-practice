@@ -14,7 +14,7 @@ public class User {
 	public User() {
 	}
 	
-	public User(Integer id, String firstName, String lastName, Integer age, Integer phone, Integer creationDate) {
+	public User(Integer id, String firstName, String lastName, Integer age, String phone, Integer creationDate) {
 		super();
 		this.id = id;
 		this.firstName = firstName;
